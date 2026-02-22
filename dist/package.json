@@ -1,0 +1,5 @@
+{
+  "name": "discord-plugin-loader-inject",
+  "version": "1.0.0",
+  "main": "loader.js"
+}
